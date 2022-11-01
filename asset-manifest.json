@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/spotlify/static/js/main.fcfe1776.js",
+    "index.html": "/spotlify/index.html",
+    "main.fcfe1776.js.map": "/spotlify/static/js/main.fcfe1776.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fcfe1776.js"
+  ]
+}
